@@ -1,0 +1,26 @@
+{
+  "name": "Reprograma-Semana-11-API",
+  "version": "1.0.0",
+  "description": "Que tal montarmos nossa própria playlist de músicas? Na nossa playlist poderemos favoritar nossas músicas e ver quais artistas tocam a música.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanaferrer/Reprograma-Semana-11-API.git"
+  },
+  "keywords": [],
+  "author": "Dayana Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayanaferrer/Reprograma-Semana-11-API/issues"
+  },
+  "homepage": "https://github.com/Dayanaferrer/Reprograma-Semana-11-API#readme"
+}
