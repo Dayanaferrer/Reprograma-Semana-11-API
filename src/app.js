@@ -6,6 +6,7 @@ app.use(express.json())
 const index = require("./routes/index")
 const music = require("./routes/music")
 
+
 app.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*")
     res.header(
