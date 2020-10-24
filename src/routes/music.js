@@ -11,7 +11,7 @@ router.get("/:id", controller.getMusic)
 
 router.put("/:id", controller.updateMusic)
 
-router.patch("/:id/watched", controller.updateHeardStatus)
+router.patch("/:id/heard", controller.updateHeardStatus)
 
 router.delete("/:id", controller.deleteMusic)
 

@@ -109,7 +109,7 @@ const deleteMusic = (req, res) => {
             })
 
         } else {
-            res.status(400).send({ message: "Filme não encontrado para deletar" })
+            res.status(400).send({ message: "Music não encontrado para deletar" })
         }
     } catch (error) {
         console.log(error)

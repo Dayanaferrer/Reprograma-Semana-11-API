@@ -1,11 +1,115 @@
 [
     {
         "id": 1,
-        "title": "",
-        "duration": "",
-        "launchYear": "",
-        "favorited" : true,
-        "artists": [""]
+        "title": "Perdoa-me",
+        "duration": "4:14",
+        "launchYear": "2004",
+        "favorited": true,
+        "artists": "Kelvis Duran"
+    },
+    {
+        "id": 2,
+        "title": "Baby Doll",
+        "duration": "3:24",
+        "launchYear": "2015",
+        "favorited": true,
+        "artists": "Banda Metade"
+    },
+    {
+        "id": 3,
+        "title": "Vou Marcar Serrado",
+        "duration": "3:30",
+        "launchYear": "2015",
+        "favorited": true,
+        "artists": "Banda Metade"
+    },
+    {},
+    {
+        "id": 5,
+        "title": "Como a Culpa É minha",
+        "duration": "3:41",
+        "launchYear": "2011",
+        "favorited": true,
+        "artists": "Banda Torpedo"
+    },
+    {
+        "id": 6,
+        "title": "Milk Shake",
+        "duration": "3:51",
+        "launchYear": "2015",
+        "favorited": true,
+        "artists": "Nega do Babado"
+    },
+    {
+        "id": 7,
+        "title": "Obsessão",
+        "duration": "3:23",
+        "launchYear": "2008",
+        "favorited": true,
+        "artists": "Vício Louco"
+    },
+    {
+        "id": 8,
+        "title": "Conquista",
+        "duration": "4:02",
+        "launchYear": "2001",
+        "favorited": true,
+        "artists": "Wanderley Andrade"
+    },
+    {
+        "id": 9,
+        "title": "Ânsia",
+        "duration": "3:40",
+        "launchYear": "2015",
+        "favorited": true,
+        "artists": "Banda Brega.Com"
+    },
+    {
+        "id": 10,
+        "title": "Ingrata Solidão",
+        "duration": "2:54",
+        "launchYear": "2000",
+        "favorited": true,
+        "artists": "Ritmo Quente"
+    },
+    {
+        "id": 11,
+        "title": "Cada Um Pro Seu Lado",
+        "duration": "3:25",
+        "launchYear": "2001",
+        "favorited": true,
+        "artists": "Banda Tsunami"
+    },
+    {
+        "id": 12,
+        "title": "Quero Me Entregar",
+        "duration": "3:26",
+        "launchYear": "2002",
+        "favorited": true,
+        "artists": "Banda Aphrodite"
+    },
+    {
+        "id": 13,
+        "title": "Me guardei pra você",
+        "duration": "3:41",
+        "launchYear": "2015",
+        "favorited": false,
+        "artists": "Banda Mancha de Batom"
+    },
+    {
+        "id": 14,
+        "title": "Pensei Que Era Para Sempre",
+        "duration": "3:37",
+        "launchYear": "2012",
+        "favorited": true,
+        "artists": "Mc Sheldon"
+    },
+    {
+        "id": 15,
+        "title": "Dizem que sou louca",
+        "duration": "3:43",
+        "launchYear": "2013",
+        "favorited": true,
+        "artists": "Banda Kitara"
     }
-   
 ]
